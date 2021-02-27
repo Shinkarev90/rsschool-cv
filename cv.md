@@ -5,12 +5,12 @@
 4. Skills: **HTML, CSS, JavaScript**,
 5. Code examples: 
 ```Javascript
-if(name == "Alex"){
-	document.write('hello Alex');
-} else if(name == "Men"){
-	document.write('hello Men');
-} else if(name == "Kate"){
-	document.write('hello Kate'); 
+function showSumm(numOne, numTwo) {
+    let numSumm = numOne + numTwo;
+    return numSumm;
+}
+let calcSumm = showSumm(2, 3);
+console.log(calcSumm); 
 ```
 6. Experience: YouTube courses,
 7. Education: graduated from Saratov State Agrarian University,
