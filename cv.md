@@ -13,5 +13,5 @@ if(name == "Alex"){
 	document.write('hello Kate'); 
 ```
 6. Experience: YouTube courses,
-7. Education: graduated from Saratov State Agrarian University
+7. Education: graduated from Saratov State Agrarian University,
 8. English **A1**
