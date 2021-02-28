@@ -12,6 +12,6 @@ function showSumm(numOne, numTwo) {
 let calcSumm = showSumm(2, 3);
 console.log(calcSumm); 
 ```
-6. Experience: YouTube courses,
-7. Education: graduated from Saratov State Agrarian University,
+6. Experience: YouTube courses
+7. Education: graduated from Saratov State Agrarian University
 8. English **A1**
